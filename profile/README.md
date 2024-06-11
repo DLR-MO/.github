@@ -1,6 +1,6 @@
 # German Aerospace Center (DLR) Institute MO
 <p align="center">
-  <img alt="Institute structure" src="https://www.dlr.de/de/mo/medien/bilder/mo-research-areas.png/@@images/image-2000-13aca731c86221051035218fdae0d992.png" width="600
+  <img alt="Institute structure" src="https://www.dlr.de/de/mo/medien/bilder/mo-research-areas.png/@@images/image-2000-794ef85511ea61fcc82f405551fbbffc.png" width="600
   " />
 <br>Image credit: DLR (CC BY-NC-ND 3.0)
 </p>
